@@ -1,0 +1,340 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-23 21:02+0500\n"
+"PO-Revision-Date: 2024-03-22 14:28+0500\n"
+"Last-Translator:   <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Translated-Using: django-rosetta 0.10.0\n"
+
+#: nobel_main/settings.py:120
+msgid "Russian"
+msgstr ""
+
+#: nobel_main/settings.py:121
+msgid "Uzbek"
+msgstr ""
+
+#: nobel_main/settings.py:122
+msgid "English"
+msgstr ""
+
+#: other/admin.py:27 other/admin.py:41 other/admin.py:56 product/admin.py:58
+#: vacancy/admin.py:25
+msgid "Image"
+msgstr ""
+
+#: other/apps.py:8
+msgid "Other"
+msgstr ""
+
+#: other/models.py:6
+msgid "home_videos"
+msgstr ""
+
+#: other/models.py:6
+msgid "Сюда загружайте видео для главного страницы и одну"
+msgstr ""
+
+#: other/models.py:7 other/models.py:21 other/models.py:35 other/models.py:49
+#: product/models.py:17 product/models.py:45 product/models.py:90
+#: vacancy/models.py:14
+msgid "Updated at"
+msgstr ""
+
+#: other/models.py:8 other/models.py:22 other/models.py:36 other/models.py:50
+#: product/models.py:18 product/models.py:46 product/models.py:91
+#: vacancy/models.py:15
+msgid "Created at"
+msgstr ""
+
+#: other/models.py:14
+msgid "Home video"
+msgstr ""
+
+#: other/models.py:15
+msgid "Home videos"
+msgstr ""
+
+#: other/models.py:19
+msgid "partners_logo"
+msgstr ""
+
+#: other/models.py:19
+msgid "Сюда загружайте логотип для партрера и одну"
+msgstr ""
+
+#: other/models.py:20
+msgid "partners_link"
+msgstr ""
+
+#: other/models.py:20
+msgid ""
+"Сюда вы должны поставить ссылку на сайт партнера или т.д НО НЕ Обязательно!"
+msgstr ""
+
+#: other/models.py:28
+msgid "Partners_logo"
+msgstr ""
+
+#: other/models.py:29
+msgid "Partners_logos"
+msgstr ""
+
+#: other/models.py:33
+msgid "brands_logo"
+msgstr ""
+
+#: other/models.py:33
+msgid "Сюда загружайте логотип для бренда и одну"
+msgstr ""
+
+#: other/models.py:34
+msgid "brands_link"
+msgstr ""
+
+#: other/models.py:34
+msgid ""
+"Сюда вы должны поставить ссылку на сайт бренда или т.д НО НЕ Обязательно!"
+msgstr ""
+
+#: other/models.py:42
+msgid "Brand_logo"
+msgstr ""
+
+#: other/models.py:43
+msgid "Brands_logos"
+msgstr ""
+
+#: other/models.py:47
+msgid "subsidiaries_logo"
+msgstr ""
+
+#: other/models.py:47
+msgid "Сюда загружайте логотип дочерних компаний и одну"
+msgstr ""
+
+#: other/models.py:48
+msgid "subsidiaries_link"
+msgstr ""
+
+#: other/models.py:48
+msgid ""
+"Сюда вы должны поставить ссылку на сайт дочернего компании или т.д НО НЕ "
+"Обязательно!"
+msgstr ""
+
+#: other/models.py:56
+msgid "Subsidiaries_logo"
+msgstr ""
+
+#: other/models.py:57
+msgid "Subsidiaries_logos"
+msgstr ""
+
+#: product/apps.py:8 product/models.py:97
+msgid "Product"
+msgstr ""
+
+#: product/models.py:7
+msgid "Сюда надо писать названия категории например:РАСТИТЕЛЬНОЕ МАСЛО и т.д"
+msgstr ""
+
+#: product/models.py:8 product/models.py:35
+msgid "title"
+msgstr ""
+
+#: product/models.py:9
+msgid "Описания для вашего категории"
+msgstr ""
+
+#: product/models.py:9 product/models.py:37
+msgid "cat_description"
+msgstr ""
+
+#: product/models.py:15 product/models.py:43 product/models.py:88
+msgid "my_order"
+msgstr ""
+
+#: product/models.py:24
+msgid "Category"
+msgstr ""
+
+#: product/models.py:25
+msgid "Categories"
+msgstr ""
+
+#: product/models.py:30
+msgid "subcategory"
+msgstr ""
+
+#: product/models.py:31
+msgid "Сюда надо указать категорию"
+msgstr ""
+
+#: product/models.py:34
+msgid ""
+"Сюда надо писать названия подкатегории например:РАСТИТЕЛЬНОЕ МАСЛО и т.д"
+msgstr ""
+
+#: product/models.py:36
+msgid "Описания для вашего подкатегории (Не обьязательно)"
+msgstr ""
+
+#: product/models.py:52
+msgid "Subcategory"
+msgstr ""
+
+#: product/models.py:53
+msgid "Subcategories"
+msgstr ""
+
+#: product/models.py:58
+msgid "product_title"
+msgstr ""
+
+#: product/models.py:59
+msgid "Сюда надо писать название товара например:Кубанское золото.."
+msgstr ""
+
+#: product/models.py:61
+msgid "Тут можете выбрать категории для вашего продукта"
+msgstr ""
+
+#: product/models.py:63
+msgid "Тут можете выбрать подкатегорию для вашего продукта"
+msgstr ""
+
+#: product/models.py:65
+msgid "product_short_description"
+msgstr ""
+
+#: product/models.py:66
+msgid "Сюда надо писать краткое описания для вашего товара"
+msgstr ""
+
+#: product/models.py:67
+msgid "product_description"
+msgstr ""
+
+#: product/models.py:68
+msgid "Сюда надо писать описания для вашего товара"
+msgstr ""
+
+#: product/models.py:69
+msgid "product_term"
+msgstr ""
+
+#: product/models.py:70
+msgid "Сюда надо писать срок например: 12 месяцев..."
+msgstr ""
+
+#: product/models.py:71
+msgid "product_GMO"
+msgstr ""
+
+#: product/models.py:72
+msgid "Сюда надо писать с ГМО или БЕЗ ГМО"
+msgstr ""
+
+#: product/models.py:73
+msgid "product_substance"
+msgstr ""
+
+#: product/models.py:74
+msgid "Сюда надо писать вещество например: Без холестерина...."
+msgstr ""
+
+#: product/models.py:75
+msgid "product_image"
+msgstr ""
+
+#: product/models.py:76
+msgid "Сюда надо загрузить изображения товара"
+msgstr ""
+
+#: product/models.py:77
+msgid "object_pdf"
+msgstr ""
+
+#: product/models.py:78
+msgid "Сюда надо загрузить PDF если необходимо!"
+msgstr ""
+
+#: product/models.py:79
+msgid "product_volume"
+msgstr ""
+
+#: product/models.py:80
+msgid "Сюда надо указывать обьем в литрах"
+msgstr ""
+
+#: product/models.py:81
+msgid "product_count"
+msgstr ""
+
+#: product/models.py:82
+msgid "По умолчанию тут стоит 1 если необходимо можете менять"
+msgstr ""
+
+#: product/models.py:98
+msgid "Products"
+msgstr ""
+
+#: vacancy/apps.py:8 vacancy/models.py:21 vacancy/models.py:22
+msgid "Vacancy"
+msgstr "Вакансия"
+
+#: vacancy/models.py:6
+msgid "vacancy_title"
+msgstr ""
+
+#: vacancy/models.py:7
+msgid "Тут должны писать название вакансии например:Финансист..."
+msgstr ""
+
+#: vacancy/models.py:8
+msgid "vacancy_description"
+msgstr ""
+
+#: vacancy/models.py:9
+msgid "Тут должны писать описание(характеристики) вашего вакансии"
+msgstr ""
+
+#: vacancy/models.py:11
+msgid "Начало работы"
+msgstr ""
+
+#: vacancy/models.py:11
+msgid "Начало работы например 9:00"
+msgstr ""
+
+#: vacancy/models.py:12
+msgid "Окончание работы"
+msgstr ""
+
+#: vacancy/models.py:12
+msgid "Окончание работы например 18:00"
+msgstr ""
+
+#: vacancy/models.py:13
+msgid "vacancy_price"
+msgstr ""
+
+#: vacancy/models.py:13
+msgid "Тут указываете ЗП"
+msgstr ""
